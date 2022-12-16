@@ -6,6 +6,7 @@ This repository is a readme generator tool.
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+
 -[Test Instructions](#test-instructions)
 - [Author](#author)
 - [Deployment](#deployment)
