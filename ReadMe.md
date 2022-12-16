@@ -37,7 +37,7 @@ When I click on the table of contents; then I am taken to the corresponding sect
 
 ## Screenshots
 
- Screen shot [script.js](![Screen Shot 2022-07-11 at 12 09 37 AM](https://user-images.githubusercontent.com/103548864/178208440-2a9b5a1f-cb92-4c3f-9bb7-52bad9968253.png))
+ Screen shot [script.js](![Screen Shot 2022-07-11 at 12 09 37 AM](https://user-images.githubusercontent.com/103548864/178208440-2a9b5a1f-cb92-4c3f-9bb7-52bad9968253.png)
 
 ## Test Instructions
 
